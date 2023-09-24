@@ -1,9 +1,9 @@
-# Robomaster-Python
+# RoboMaster-Python
 
 # RoboMaster Python API
 
 > Tips:
-  区别于 DJI 官方 Robomaster 官方 SDK, 本 API 为在 Robomaster App 上运行的 Python 代码 API
+  区别于 DJI 官方 RoboMaster 官方 SDK, 本 API 为在 RoboMaster App 上运行的 Python 代码 API
 
 ## Source Code
 
