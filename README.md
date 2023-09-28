@@ -23,4 +23,35 @@
 
 Script: `decompyle3 -r -o .\Decompile-decompyle3\ .\Source\ > .\Log\decompyle3.log`
 
-Log: Log/decompyle3.log
+<details>
+
+<summary>终端输出</summary>
+
+```
+# file .\Source\lib\dji_scratch_project_parser.pyc
+# Deparsing stopped due to parse error
+
+# file .\Source\lib\script_manage.pyc
+# Deparsing stopped due to parse error
+
+# file .\Source\sdk\plaintext_sdk\protocal_parser.pyc
+# Deparsing stopped due to parse error
+
+# file .\Source\src\test\event_client.pyc
+# Deparsing stopped due to parse error
+
+# file .\Source\src\test\rm_ctrl.pyc
+# Deparsing stopped due to parse error
+
+# file .\Source\src\test\rm_socket.pyc
+# Deparsing stopped due to parse error
+
+# file .\Source\src\test\custom_ui\widget_base.pyc
+# Deparsing stopped due to parse error
+
+# file .\Source\src\test\multi_comm\multi_communication.pyc
+# Deparsing stopped due to parse error
+```
+</details>
+
+Log: [Log/decompyle3.log](https://github.com/GYYZ-RMYC/RoboMaster-Python/blob/main/Log/decompyle3.log)
