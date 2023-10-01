@@ -55,3 +55,16 @@ Script: `decompyle3 -r -o .\Decompile-decompyle3\ .\Source\ > .\Log\decompyle3.l
 </details>
 
 Log: [Log/decompyle3.log](https://github.com/GYYZ-RMYC/RoboMaster-Python/blob/main/Log/decompyle3.log)
+
+
+## DSP Codec
+
+文件夹: DSP-codec
+
+存放 DSP 编解码相关文件
+
+### dsp_codec_windows
+
+来自 DJI Forum: [DSP file codec.](https://forum.dji.com/forum.php?mod=viewthread&tid=201957)
+
+感谢 BGA(brunoga) 的分享! 相关 GitHub 链接: [brunoga/robomaster](https://github.com/brunoga/robomaster/tree/main/legacy/dsp)
